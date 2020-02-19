@@ -1,175 +1,161 @@
-
-<!DOCTYPE html>
 <html>
   <head>
-    
-<meta charset="utf-8" >
-
-<title>UX | </title>
-<meta name="description" content="记录生活、学习、工作，分享好产品好设计！👨🏻‍💻">
-
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
-
+  <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>UX | DesignHub</title>
+<meta name="description" content="记录生活、学习、工作，分享好产品好设计！👨🏻‍💻" />
+<link rel="shortcut icon" href="https://tengjg.github.io/favicon.ico?v=1582115931850">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://tengjg.github.io/favicon.ico?v=1582115806062">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://tengjg.github.io/styles/main.css">
 
-
-
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
 
   </head>
   <body>
-    <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      <a href="https://tengjg.github.io">
-        <img class="avatar" src="https://tengjg.github.io/images/avatar.png?v=1582115806062" alt="" width="32px" height="32px">
-      </a>
-      <a href="https://tengjg.github.io">
-        <h1 class="site-title"></h1>
-      </a>
-    </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
-    </div>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://tengjg.github.io">
+  <img class="avatar" src="https://tengjg.github.io/images/avatar.png?v=1582115931850" alt="">
+  </a>
+  <h1 class="site-title">
+    DesignHub
+  </h1>
+  <p class="site-description">
+    记录生活、学习、工作，分享好产品好设计！👨🏻‍💻
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="https://fredstonet.github.io" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
   </div>
 </div>
 
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
-      
-        
-          <a href="https://fredstonet.github.io" class="menu purple-link">
-            首页
-          </a>
-        
-      
-        
-          <a href="/archives" class="menu purple-link">
-            归档
-          </a>
-        
-      
-        
-          <a href="/tags" class="menu purple-link">
-            标签
-          </a>
-        
-      
-        
-          <a href="/post/about" class="menu purple-link">
-            关于
-          </a>
-        
-      
-    </div>
-  </div>
-</transition>
-
-
-      <div class="content-container">
-
         <div class="current-tag-container">
-          <h2 class="title">
-            <i class="icon icon-pricetags-outline"></i> UX
-          </h2> 
+            <h2 class="title">
+                标签：# UX
+            </h2> 
         </div>
-
-        
-<section class="post-item">
-    <div class="content">
+        <div class="post-container">
+  
+    <article class="post">
       <a href="https://tengjg.github.io/post/wo-de-bo-ke/">
         <h2 class="post-title">我的博客</h2>
       </a>
+      <div class="post-info">
+        <span>
+          2020-02-19
+        </span>
+        <span>
+          2 min read
+        </span>
+        
+          <a href="https://tengjg.github.io/tag/Atf8fwu1l/" class="post-tag">
+            # UX
+          </a>
+        
+      </div>
+      
       <div class="post-abstract">
         <p><img src="https://tengjg.github.io/post-images/1582109365044.jpg" alt="" loading="lazy"><br>
 测试一下</p>
 
       </div>
-      <div class="post-info">
-        <span><i class="icon icon-calendar-outline"></i> 2020-02-19</span>
-        
-          <span>
-            <i class="icon icon-pricetags-outline"></i>
-            
-              <a href="https://tengjg.github.io/tag/Atf8fwu1l/">
-                UX
-                
-              </a>
-            
-          </span>
-        
-      </div>
-    </div>
-    
-  </section>
+    </article>
+  
+</div>
 
-
-<div class="pagination-container">
+        <div class="pagination-container">
   
   
 </div>
 
-
-      </div>
-
-      <div class="site-footer">
-  <div class="slogan">记录生活、学习、工作，分享好产品好设计！👨🏻‍💻</div>
-  <div class="social-container">
-    
-      
-        <a href="https://github.com/TengJG" target="_blank">
-          <i class="fab fa-github"></i>
-        </a>
-      
-    
-      
-        <a href="https://twitter.com/home" target="_blank">
-          <i class="fab fa-twitter"></i>
-        </a>
-      
-    
-      
-    
-      
-        <a href="https://www.zhihu.com/people/tengjg" target="_blank">
-          <i class="fab fa-zhihu"></i>
-        </a>
-      
-    
-      
-    
-  </div>
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">JG Teng</a> | <a class="rss" href="https://tengjg.github.io/atom.xml" target="_blank">RSS</a>
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">JG Teng</a> | 
+  <a class="rss" href="https://tengjg.github.io/atom.xml" target="_blank">RSS</a>
 </div>
 
+<script>
+  hljs.initHighlightingOnLoad()
 
-    </div>
-    <script type="application/javascript">
+  let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
 
-hljs.initHighlightingOnLoad()
+  // This should probably be throttled.
+  // Especially because it triggers during smooth scrolling.
+  // https://lodash.com/docs/4.17.10#throttle
+  // You could do like...
+  // window.addEventListener("scroll", () => {
+  //    _.throttle(doThatStuff, 100);
+  // });
+  // Only not doing it here to keep this Pen dependency-free.
 
-var app = new Vue({
-  el: '#app',
-  data: {
-    menuVisible: false,
-  },
-})
+  window.addEventListener("scroll", event => {
+    let fromTop = window.scrollY;
+
+    mainNavLinks.forEach((link, index) => {
+      let section = document.getElementById(decodeURI(link.hash).substring(1));
+      let nextSection = null
+      if (mainNavLinks[index + 1]) {
+        nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+      }
+      if (section.offsetTop <= fromTop) {
+        if (nextSection) {
+          if (nextSection.offsetTop > fromTop) {
+            link.classList.add("current");
+          } else {
+            link.classList.remove("current");    
+          }
+        } else {
+          link.classList.add("current");
+        }
+      } else {
+        link.classList.remove("current");
+      }
+    });
+  });
 
 </script>
 
-
-
-
+      </div>
+    </div>
   </body>
 </html>
