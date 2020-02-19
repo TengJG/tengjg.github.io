@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tengjg.io</id>
+    <id>https://tengjg.github.io</id>
     <title>Work Project</title>
-    <updated>2020-02-19T12:25:51.292Z</updated>
+    <updated>2020-02-19T12:29:55.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tengjg.io"/>
-    <link rel="self" href="https://tengjg.io/atom.xml"/>
-    <logo>https://tengjg.io/images/avatar.png</logo>
-    <icon>https://tengjg.io/favicon.ico</icon>
+    <link rel="alternate" href="https://tengjg.github.io"/>
+    <link rel="self" href="https://tengjg.github.io/atom.xml"/>
+    <logo>https://tengjg.github.io/images/avatar.png</logo>
+    <icon>https://tengjg.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Work Project</rights>
     <entry>
         <title type="html"><![CDATA[我的博客]]></title>
-        <id>https://tengjg.io/post/wo-de-bo-ke/</id>
-        <link href="https://tengjg.io/post/wo-de-bo-ke/">
+        <id>https://tengjg.github.io/post/wo-de-bo-ke/</id>
+        <link href="https://tengjg.github.io/post/wo-de-bo-ke/">
         </link>
         <updated>2020-02-19T10:48:39.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="https://tengjg.cn/post-images/1582109365044.jpg" alt="" loading="lazy"><br>
+        <summary type="html"><![CDATA[<p><img src="https://tengjg.github.io/post-images/1582109365044.jpg" alt="" loading="lazy"><br>
 测试一下</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><img src="https://tengjg.cn/post-images/1582109365044.jpg" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<p><img src="https://tengjg.github.io/post-images/1582109365044.jpg" alt="" loading="lazy"><br>
 测试一下</p>
 ]]></content>
     </entry>
