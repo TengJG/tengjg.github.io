@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tengjg.github.io</id>
     <title>DesiHub</title>
-    <updated>2020-02-19T14:20:16.529Z</updated>
+    <updated>2020-02-19T14:40:44.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tengjg.github.io"/>
     <link rel="self" href="https://tengjg.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, DesiHub</rights>
     <entry>
         <title type="html"><![CDATA[自我学习]]></title>
-        <id>https://tengjg.github.io/post/Gridea/</id>
-        <link href="https://tengjg.github.io/post/Gridea/">
+        <id>https://tengjg.github.io/Gridea/</id>
+        <link href="https://tengjg.github.io/Gridea/">
         </link>
         <updated>2020-02-19T13:07:06.000Z</updated>
         <summary type="html"><![CDATA[<p><img src="https://tengjg.github.io/post-images/1582117691955.png" alt="" loading="lazy"><br>
@@ -25,8 +25,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[这是我的第二个项目]]></title>
-        <id>https://tengjg.github.io/post/zhe-shi-wo-de-di-er-ge-xiang-mu/</id>
-        <link href="https://tengjg.github.io/post/zhe-shi-wo-de-di-er-ge-xiang-mu/">
+        <id>https://tengjg.github.io/zhe-shi-wo-de-di-er-ge-xiang-mu/</id>
+        <link href="https://tengjg.github.io/zhe-shi-wo-de-di-er-ge-xiang-mu/">
         </link>
         <updated>2020-02-19T12:58:52.000Z</updated>
         <summary type="html"><![CDATA[<p>此项目XXXXXXXXXX<br>
@@ -40,8 +40,8 @@ XXXXXXXXXXXXXXXXXXXX</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[这是其中的一个项目👨🏻‍💻]]></title>
-        <id>https://tengjg.github.io/post/myblog/</id>
-        <link href="https://tengjg.github.io/post/myblog/">
+        <id>https://tengjg.github.io/myblog/</id>
+        <link href="https://tengjg.github.io/myblog/">
         </link>
         <updated>2020-02-19T10:48:39.000Z</updated>
         <summary type="html"><![CDATA[<p>测试一下<br>
