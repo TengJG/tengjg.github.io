@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tengjg.github.io</id>
     <title>DesignHUB</title>
-    <updated>2020-02-19T12:57:24.301Z</updated>
+    <updated>2020-02-19T13:37:00.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tengjg.github.io"/>
     <link rel="self" href="https://tengjg.github.io/atom.xml"/>
@@ -10,6 +10,34 @@
     <logo>https://tengjg.github.io/images/avatar.png</logo>
     <icon>https://tengjg.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, DesignHUB</rights>
+    <entry>
+        <title type="html"><![CDATA[自我学习]]></title>
+        <id>https://tengjg.github.io/post/Gridea/</id>
+        <link href="https://tengjg.github.io/post/Gridea/">
+        </link>
+        <updated>2020-02-19T13:07:06.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://tengjg.github.io/post-images/1582117691955.png" alt="" loading="lazy"><br>
+学习使用Gridea静态播客软件，搭建……</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://tengjg.github.io/post-images/1582117691955.png" alt="" loading="lazy"><br>
+学习使用Gridea静态播客软件，搭建……</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这是我的第二个项目]]></title>
+        <id>https://tengjg.github.io/post/zhe-shi-wo-de-di-er-ge-xiang-mu/</id>
+        <link href="https://tengjg.github.io/post/zhe-shi-wo-de-di-er-ge-xiang-mu/">
+        </link>
+        <updated>2020-02-19T12:58:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>此项目XXXXXXXXXX<br>
+XXXXXXXXXXXX<br>
+XXXXXXXXXXXXXXXXXXXX</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>此项目XXXXXXXXXX<br>
+XXXXXXXXXXXX<br>
+XXXXXXXXXXXXXXXXXXXX</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这是其中的一个项目👨🏻‍💻]]></title>
         <id>https://tengjg.github.io/post/myblog/</id>
