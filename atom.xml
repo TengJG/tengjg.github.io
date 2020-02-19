@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tengjg.github.io</id>
-    <title>DesignHUB</title>
-    <updated>2020-02-19T13:50:27.395Z</updated>
+    <title>D-Hub</title>
+    <updated>2020-02-19T14:02:23.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tengjg.github.io"/>
     <link rel="self" href="https://tengjg.github.io/atom.xml"/>
     <subtitle>记录生活、学习、工作，分享好产品好设计！👨🏻‍💻</subtitle>
     <logo>https://tengjg.github.io/images/avatar.png</logo>
     <icon>https://tengjg.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, DesignHUB</rights>
+    <rights>All rights reserved 2020, D-Hub</rights>
     <entry>
         <title type="html"><![CDATA[自我学习]]></title>
         <id>https://tengjg.github.io/post/Gridea/</id>
